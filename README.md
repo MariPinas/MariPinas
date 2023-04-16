@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋,welcome! I'm Mariana Pereira</h1>
 <h3 align="center">I am studying technologist in systems analysis and development, I love programming!</h3>
 
-- 🔭 **I'm currently learning Front-end, Algorithms and Programming logic.**
+- 🔭 **I'm learning Front-end, Algorithms and Programming logic.**
 
 - 🌱 I’m currently learning **Front and Back-end, C, C++, C#, Python etc.**
 
