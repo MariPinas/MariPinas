@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋,welcome! I'm Mariana Pereira</h1>
 <h3 align="center">I am studying technologist in systems analysis and development, I love programming!</h3>
 
-- 🔭 **I'm learning Front-end, Algorithms and Programming logic.**
+- 🔭 **I'm learning Java, C#, UX and UI.**
 
-- 🌱 I’m currently learning **Front and Back-end, C, C++, C#, Python etc.**
+- 🌱 I’m currently learning **Front and Back-end, C, C#, Java etc.**
+
+- Scholarship student in ** Scientific Initiation with a focus on artificial intelligence and object detection."**
 
 - 📫 How to reach me **marianapls2003@gmail.com**
 
