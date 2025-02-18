@@ -5,7 +5,7 @@
 
 - 🌱 I’m learning **Python and .NET**
 
-- ✨ Scholarship student in ** Scientific Initiation with a focus on artificial intelligence and object detection.**
+- ✨ Scholarship student in **Scientific Initiation with a focus on artificial intelligence and object detection**.
 
 - 📫 How to reach me **marianapls2003@gmail.com**
   
