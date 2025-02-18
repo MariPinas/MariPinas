@@ -2,6 +2,7 @@
   <img src="https://github.com/user-attachments/assets/bdb17cff-750f-45e8-a6ff-f26f2d76bd48" width="800" />
 </p>
 <h1 align="center"> 🧠 Welcome! I'm Mariana Santos!</h1>
+
 - 🔭 **I’m currently working with AI and Machine Learning**
 
 - 🌱 I’m learning **Python and .NET**
