@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋,welcome! I'm Mariana Santos</h1>
 <h3 align="center">I am studying technologist in systems analysis and development, I love programming!</h3>
 
-![gitgit2](https://github.com/user-attachments/assets/5b77dffb-f0af-4bf4-a8da-9379eb32b873)
+<p align="center">
+  <img src="![gitgit2](https://github.com/user-attachments/assets/bdb17cff-750f-45e8-a6ff-f26f2d76bd48)" width="600" />
+</p>
 
 - 🔭 **I’m currently working with AI and Machine Learning**
 
