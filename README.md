@@ -11,7 +11,7 @@
   
 - 😄 Pronouns: She/Her
 
-[![Mari's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariPinas&hide=stars,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Mari's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariPinas&hide=stars,issues,contribs)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
