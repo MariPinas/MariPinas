@@ -1,13 +1,17 @@
 <h1 align="center">Hi 👋,welcome! I'm Mariana Pereira</h1>
 <h3 align="center">I am studying technologist in systems analysis and development, I love programming!</h3>
 
-- 🔭 **I'm learning Java, C#, UX and UI.**
+- 🔭 **I’m currently working with AI and Machine Learning**
 
-- 🌱 I’m currently learning **Front and Back-end, C, C#, Java etc.**
+- 🌱 I’m learning **Python and .NET**
 
-- Scholarship student in ** Scientific Initiation with a focus on artificial intelligence and object detection."**
+- ✨ Scholarship student in ** Scientific Initiation with a focus on artificial intelligence and object detection."**
 
 - 📫 How to reach me **marianapls2003@gmail.com**
+  
+- 😄 Pronouns: She/Her
+
+- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariPinas)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
