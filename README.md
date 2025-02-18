@@ -16,7 +16,7 @@
 ![Mari's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariPinas&hide=stars,issues,contribs&show_icons=true&theme=synthwave)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MariPinas&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MariPinas&repo=MisteryDoors)](https://github.com/MariPinas/MisteryDoors.git))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
