@@ -2,7 +2,7 @@
 <h3 align="center">I am studying technologist in systems analysis and development, I love programming!</h3>
 
 <p align="center">
-  <img src="![gitgit2](https://github.com/user-attachments/assets/bdb17cff-750f-45e8-a6ff-f26f2d76bd48)" width="600" />
+  <img src="https://github.com/user-attachments/assets/bdb17cff-750f-45e8-a6ff-f26f2d76bd48" width="600" />
 </p>
 
 - 🔭 **I’m currently working with AI and Machine Learning**
