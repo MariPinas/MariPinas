@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋,welcome! I'm Mariana Santos</h1>
-<h3 align="center">I am studying technologist in systems analysis and development, I love programming!</h3>
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/bdb17cff-750f-45e8-a6ff-f26f2d76bd48" width="800" />
 </p>
