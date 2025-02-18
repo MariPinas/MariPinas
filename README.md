@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋,welcome! I'm Mariana Pereira</h1>
+<h1 align="center">Hi 👋,welcome! I'm Mariana Santos</h1>
 <h3 align="center">I am studying technologist in systems analysis and development, I love programming!</h3>
 
 - 🔭 **I’m currently working with AI and Machine Learning**
