@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋,welcome! I'm Mariana Santos</h1>
 <h3 align="center">I am studying technologist in systems analysis and development, I love programming!</h3>
 
+![gitgit2](https://github.com/user-attachments/assets/5b77dffb-f0af-4bf4-a8da-9379eb32b873)
+
 - 🔭 **I’m currently working with AI and Machine Learning**
 
 - 🌱 I’m learning **Python and .NET**
@@ -12,18 +14,6 @@
 - 😄 Pronouns: She/Her
 
 ![Mari's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariPinas&hide=stars,issues,contribs&show_icons=true&theme=synthwave)
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
