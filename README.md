@@ -15,7 +15,8 @@
 
 ![Mari's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariPinas&hide=stars,issues,contribs&show_icons=true&theme=synthwave)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MariPinas&repo=MisteryDoors&theme=synthwave)](https://github.com/MariPinas/MisteryDoors.git) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MariPinas&repo=PorjetoFinalPOO&theme=synthwave)](https://github.com/MariPinas/ProjetoFinalPOO.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MariPinas&repo=MisteryDoors&theme=synthwave)](https://github.com/MariPinas/MisteryDoors.git) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MariPinas&repo=PorjetoFinalPOO&theme=synthwave)](https://github.com/MariPinas/ProjetoFinalPOO.git)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
