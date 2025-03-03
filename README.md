@@ -12,6 +12,8 @@
 - 📫 How to reach me **marianapls2003@gmail.com**
   
 - 😄 Pronouns: She/Her
+  
+- 👷‍♀️  I will post more projects soon . . .
 
 ![Mari's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariPinas&hide=stars,issues,contribs&show_icons=true&theme=synthwave)
 
